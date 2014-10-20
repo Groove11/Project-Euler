@@ -1,0 +1,1 @@
+These are my answeres to problems 1-3 of Project Euler. Project Euler can be found here: https://projecteuler.net/
